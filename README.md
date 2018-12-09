@@ -1,1 +1,1 @@
-# HamiltonianBasedOptimization
+# TimeOptimalRiverCrossing
